@@ -2,7 +2,7 @@
 
 
 
-!\[AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+\[AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 
 !\[EC2](https://img.shields.io/badge/EC2-AutoScaling-blue)
 
